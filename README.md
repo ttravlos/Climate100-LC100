@@ -1,6 +1,7 @@
-# Climate100
+# Climate100-LC100
 Climate control replacement app for the Land Cruiser 100 and LX470 using the Teyes CC3 (and probably other FYT-based systems)
 
+# LC100 2006 specific CAN bus codes, split screen portrait layout
 
 This is a replacement for the LandCruiser 100 and LX470 climate app.
 https://youtu.be/IqOUl0FLdPE
